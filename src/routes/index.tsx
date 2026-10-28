@@ -65,7 +65,7 @@ function ParticipantPortal() {
     <main className="min-h-screen px-4 py-8">
       <div className="mx-auto w-full max-w-2xl">
         <header className="text-center">
-          <p className="text-xs font-semibold uppercase tracking-[0.3em] text-primary">VIAT AI Day 2026</p>
+          <p className="text-xs font-semibold uppercase tracking-[0.3em] text-primary">AI Competition 2026</p>
           <h1 className="mt-2 text-3xl font-black tracking-tight sm:text-4xl">PROMPT CRAFT</h1>
           <p className="mt-2 text-sm text-muted-foreground">{COMPETITION_TOPIC}</p>
         </header>

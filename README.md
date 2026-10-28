@@ -77,8 +77,8 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/jagarlamudinethra20-debug/promptcraftviat.git
-cd promptcraftviat
+git clone https://github.com/jagarlamudinethra20-debug/promptcraft.git
+cd promptcraft
 ```
 
 ### 2. Install Dependencies
@@ -116,9 +116,9 @@ SUPABASE_PROJECT_ID="your-project-id"
 ADMIN_PASSWORD="your-secure-admin-password"
 
 # AI Judge API Keys (Configure at least one)
-GROQ_API_KEY="gsk_..."
-GEMINI_API_KEY="AIzaSy..."
-LOVABLE_API_KEY="..."
+GROQ_API_KEY="your-groq-api-key"
+GEMINI_API_KEY="your-gemini-api-key"
+LOVABLE_API_KEY="your-lovable-api-key"
 ```
 
 ### 4. Database Setup

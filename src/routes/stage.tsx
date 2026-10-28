@@ -40,7 +40,7 @@ function StagePage() {
     <main className="min-h-screen px-8 py-10">
       <div className="mx-auto grid w-full max-w-7xl gap-10 lg:grid-cols-[420px_1fr]">
         <section className="text-center">
-          <p className="text-sm font-semibold uppercase tracking-[0.4em] text-primary">VIAT AI Day 2026</p>
+          <p className="text-sm font-semibold uppercase tracking-[0.4em] text-primary">AI Competition 2026</p>
           <h1 className="mt-3 text-5xl font-black leading-none">PROMPT CRAFT</h1>
           <p className="mt-3 text-sm text-muted-foreground">{COMPETITION_TOPIC}</p>
 

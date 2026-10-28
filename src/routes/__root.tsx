@@ -77,14 +77,13 @@ export const Route = createRootRouteWithContext<{ queryClient: QueryClient }>()(
     meta: [
       { charSet: "utf-8" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
-      { title: "Lovable App" },
-      { name: "description", content: "Lovable Generated Project" },
-      { name: "author", content: "Lovable" },
-      { property: "og:title", content: "Lovable App" },
-      { property: "og:description", content: "Lovable Generated Project" },
+      { title: "PROMPT CRAFT — AI Competition & Evaluation Portal" },
+      { name: "description", content: "Real-time AI prompt engineering competition and automated multi-LLM evaluation portal" },
+      { name: "author", content: "Prompt Craft" },
+      { property: "og:title", content: "PROMPT CRAFT — AI Competition & Evaluation Portal" },
+      { property: "og:description", content: "Real-time AI prompt engineering competition and automated multi-LLM evaluation portal" },
       { property: "og:type", content: "website" },
       { name: "twitter:card", content: "summary_large_image" },
-      { name: "twitter:site", content: "@Lovable" },
     ],
     links: [
       {
